@@ -1,0 +1,6 @@
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/bin/Debug/ConsoleAppLab1.exe
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/bin/Debug/ConsoleAppLab1.pdb
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/obj/Debug/ConsoleAppLab1.csprojAssemblyReference.cache
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/obj/Debug/ConsoleAppLab1.csproj.CoreCompileInputs.cache
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/obj/Debug/ConsoleAppLab1.exe
+/home/arseniy/projects/csharp/ConsoleAppLab1/ConsoleAppLab1/obj/Debug/ConsoleAppLab1.pdb
